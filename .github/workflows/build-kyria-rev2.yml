@@ -1,7 +1,7 @@
 # Copyright 2021 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: 'Build Example ergodox_ez'
+name: 'Build Kyria rev2'
 on:
   - workflow_dispatch
 jobs:
